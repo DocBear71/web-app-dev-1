@@ -11,6 +11,7 @@ Create multiple solutions if you would like.
 ```JavaScript
 const myString = 'developer';
 
+
 console.log(myNewString); // 'Developer'
 ```
 

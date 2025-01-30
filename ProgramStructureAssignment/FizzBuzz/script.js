@@ -1,4 +1,4 @@
-let numbers = 1
+let numbers = 1;
 let i = 1;
 while (i <= 100) {
     if (numbers % 3 === 0 && numbers % 5 === 0) {
