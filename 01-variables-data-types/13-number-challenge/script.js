@@ -1,5 +1,5 @@
-let x = Math.random() * 100;
-let y = Math.random() * 50;
+let x = Math.floor(Math.random() * (100 - 1 + 1) + 1);
+let y = Math.floor(Math.random() * (50 - 1 + 1) + 1);
 
 x = Math.floor(x);
 console.log('x is equal to: ' + x);

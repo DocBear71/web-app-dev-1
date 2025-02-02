@@ -1,3 +1,6 @@
+// Make a 8x8 chessboard using alternates of # and " "(space).
+// Then set the system to make a board of any size.
+
 function createChessboard() {
     let chessboard = '';
 
